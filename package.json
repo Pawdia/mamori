@@ -1,0 +1,19 @@
+{
+  "name": "mamori",
+  "version": "1.0.0",
+  "description": "Airi Universe status bot.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "bot",
+    "status"
+  ],
+  "author": "Cocoa <cocoa@await.moe>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "log4js": "^6.2.1"
+  }
+}

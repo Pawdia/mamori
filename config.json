@@ -1,0 +1,4 @@
+{
+    "endpoint": "https://status.async.moe",
+    "interval": 10000
+}
